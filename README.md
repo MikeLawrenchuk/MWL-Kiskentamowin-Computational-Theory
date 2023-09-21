@@ -13,8 +13,8 @@ This repository contains the research statement and associated code for explorin
 - [License](#license)
 - [Contributing](#contributing)
 - [Acknowledgments](#acknowledgments)
-
-## Installation
+- [Research Statement](#research-statement)
+- ## Installation
 
 (Optional: Instructions on how to install any software, code, or datasets needed to understand your research.)
 
