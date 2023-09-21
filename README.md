@@ -36,3 +36,8 @@ We are currently in the process of selecting a license for this repository. Unti
 ## Acknowledgments
 
 (Optional: Any acknowledgments, citations, or other references you'd like to include.)
+
+## Research Statement
+
+The research statement outlining the objectives, methodologies, and significance of this project can be found [here](./Research_Statement.md).
+
