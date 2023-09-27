@@ -1,6 +1,6 @@
 Title: Kiskentamowin Apachichikan: A New Paradigm in Computational Models
 Author: Michael Waynne Lawrenchuk
-Email: lawrenchukmike@gmail.com
+Email: 
 ORCID iD: 0000-0003-0403-5721
 
 Research Statement: Exploration of Kiskentamowin Apachichikan — A
